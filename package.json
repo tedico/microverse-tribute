@@ -11,11 +11,10 @@
   "keywords": [],
   "author": "Ted Sandico <tedsandico@tedsandico.com> (www.tedsandico.com)",
   "license": "MIT",
-  "homepage": "https://github.com/tedico/microverse-tribute",
+  "homepage": "https://tedico.github.io/microverse-tribute",
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "live-server": "^1.2.1"
   },
-  "dependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  "dependencies": {}
 }
