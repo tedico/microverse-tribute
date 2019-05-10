@@ -1,0 +1,21 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server public",
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [],
+  "author": "Ted Sandico <tedsandico@tedsandico.com> (www.tedsandico.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/tedico/microverse-tribute",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
